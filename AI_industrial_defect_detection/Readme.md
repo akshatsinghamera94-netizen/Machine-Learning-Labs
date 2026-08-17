@@ -71,6 +71,11 @@ AI_Industrial_Defect_Detection/
 
 The original NEU-DET dataset is not included in this repository.
 
+
+## Pretrained Model
+Download the trained model weights from the [GitHub Release]sha256:f1c47fab1f226d043981b88319d9b63e75407103cf31091293af57d38ec562fb , sha256:171fbace02c6514513d822774f0a7b6e359b834eccdadf51ad5072a90a909c5c and place the `.keras` file in the root folder before running `05_app.py`.
+
+
 ## Tech Used
 
 Python, TensorFlow/Keras, ResNet50, EfficientNetB0, CNN, Grad-CAM, NumPy, Matplotlib, Scikit-learn and Streamlit.
